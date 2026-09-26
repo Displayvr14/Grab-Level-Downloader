@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrabLevelDownloader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e7b3fa2031307989e8d9eb82622fe236a4cd17f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrabLevelDownloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrabLevelDownloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

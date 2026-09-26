@@ -147,3 +147,4 @@ D:\Programming\C#\GrabLevelDownloader\bin\Debug\net10.0\runtimes\osx-arm64\nativ
 D:\Programming\C#\GrabLevelDownloader\bin\Debug\net10.0\runtimes\osx-x64\native\libraylib.dylib
 D:\Programming\C#\GrabLevelDownloader\bin\Debug\net10.0\runtimes\win-x64\native\raylib.dll
 D:\Programming\C#\GrabLevelDownloader\bin\Debug\net10.0\runtimes\win-x86\native\raylib.dll
+D:\Programming\C#\GrabLevelDownloader\obj\Debug\net10.0\GrabLevelDownloader.sourcelink.json
