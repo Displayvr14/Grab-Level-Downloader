@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+aVQfZ+2mQ=",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C#\\GrabLevelDownloader\\GrabLevelDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gages\\.nuget\\packages\\imgui.net\\1.91.6.1\\imgui.net.1.91.6.1.nupkg.sha512",
+    "C:\\Users\\gages\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\gages\\.nuget\\packages\\microsoft.playwright\\1.63.0\\microsoft.playwright.1.63.0.nupkg.sha512",
+    "C:\\Users\\gages\\.nuget\\packages\\raylib-cs\\8.1.0\\raylib-cs.8.1.0.nupkg.sha512",
+    "C:\\Users\\gages\\.nuget\\packages\\rlimgui-cs\\3.2.0\\rlimgui-cs.3.2.0.nupkg.sha512",
+    "C:\\Users\\gages\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
